@@ -6,3 +6,8 @@
 .main-header {
     text-align: center;
 }
+
+.plaque {
+    max-width: 80%;
+    height: auto;
+}
